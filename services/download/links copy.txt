@@ -1,0 +1,50 @@
+https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+  out=StableDiffusion/v1-5-pruned-emaonly.ckpt
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+  out=VAE/vae-ft-mse-840000-ema-pruned.ckpt
+https://huggingface.co/runwayml/stable-diffusion-inpainting/resolve/main/sd-v1-5-inpainting.ckpt
+  out=StableDiffusion/sd-v1-5-inpainting.ckpt
+https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth
+  out=GFPGAN/GFPGANv1.4.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+  out=RealESRGAN/RealESRGAN_x4plus.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth
+  out=RealESRGAN/RealESRGAN_x4plus_anime_6B.pth
+https://heibox.uni-heidelberg.de/f/31a76b13ea27482981b4/?dl=1
+  out=LDSR/project.yaml
+https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1
+  out=LDSR/model.ckpt
+https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth
+  out=GFPGAN/GFPGANv1.4.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+  out=RealESRGAN/RealESRGAN_x4plus.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth
+  out=RealESRGAN/RealESRGAN_x4plus_anime_6B.pth
+https://heibox.uni-heidelberg.de/f/31a76b13ea27482981b4/?dl=1
+  out=LDSR/project.yaml
+https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1
+  out=LDSR/model.ckpt
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3_orangemixs.safetensors 
+  out=StableDiffusion/AOM3_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1_orangemixs.safetensors
+  out=StableDiffusion/AOM3A1_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A2_orangemixs.safetensors 
+  out=StableDiffusion/AOM3A2_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A3_orangemixs.safetensors 
+  out=StableDiffusion/AOM3A3_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
+  out=StableDiffusion/AOM3A1B_orangemixs.safetensors
+https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt
+  out=VAE/kl-f8-anime2.ckpt
+https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/VAEs/orangemix.vae.pt
+  out=VAE/orangemix.vae.pt
+https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_openpose.pth
+  out=config/auto/extensions/sd-webui-controlnet/models/control_sd15_openpose.pth
+https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_canny.pth
+  out=config/auto/extensions/sd-webui-controlnet/models/control_sd15_canny.pth
+https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_scribble.pth
+  out=config/auto/extensions/sd-webui-controlnet/models/control_sd15_scribble.pth
+https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15_softedge.pth
+  out=config/auto/extensions/sd-webui-controlnet/models/control_v11p_sd15_softedge.pth
+https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15s2_lineart_anime.pth
+  out=config/auto/extensions/sd-webui-controlnet/models/control_v11p_sd15s2_lineart_anime.pth
